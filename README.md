@@ -1,6 +1,6 @@
 # Install-Chinese-Input-on-Raspberry-Pi-Raspbian
 
-This repo records how Chinese input Google Pinyin was installed on Raspberry Pi Raspbian system.
+This repo records the steps to install Chinese input Google Pinyin on the Raspberry Pi Raspbian system.
 
 ## 1. Add Chinese locale ('zh_CN.UTF-8') via:
 ```
