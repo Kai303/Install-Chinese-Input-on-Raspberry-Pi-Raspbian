@@ -1,5 +1,7 @@
 # Install-Chinese-Input-on-Raspberry-Pi-Raspbian
 
+This repo records how Chinese input Google Pinyin was installed on Raspberry Pi Raspbian system.
+
 ## 1. Add Chinese locale ('zh_CN.UTF-8') via:
 ```
 sudo dpkg-reconfigure locales
@@ -54,15 +56,19 @@ and choose either 'Configure current input method' or 'Configure'
 - click the '+' symbol on the lower left of the window popping up
 - Uncheck 'Only Show Current Language' in the window popping up
 - Enter the term 'pinyin' in the search field
-- select the field 'GooglePinyin (LibPinyin)' and click [OK]
+- select the field 'GooglePinyin' and click [OK]
 - close the window
 
 Now it should be possible to select the input method
-'Google Pinyin' from the keyboard icon in the panel:
+'GooglePinyin' from the keyboard icon in the panel:
 
 - right click on the keyboard icon
 - hover over 'input method'
-- and select 'Pinyin'
+- and select 'GooglePinyin'
 
 The input method now can be toggled between English and Chinese using
 the key combination 'ctrl-space'...
+
+## Refrences
+raspberrypi.org/forums/viewtopic.php?t=222801
+https://hhddkk.wordpress.com/2016/06/02/install-google-pinyin-in-ubuntu-16-04/
