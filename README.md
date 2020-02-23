@@ -70,5 +70,5 @@ The input method now can be toggled between English and Chinese using
 the key combination 'ctrl-space'...
 
 ## Refrences
-raspberrypi.org/forums/viewtopic.php?t=222801
-https://hhddkk.wordpress.com/2016/06/02/install-google-pinyin-in-ubuntu-16-04/
+- raspberrypi.org/forums/viewtopic.php?t=222801
+- https://hhddkk.wordpress.com/2016/06/02/install-google-pinyin-in-ubuntu-16-04/
